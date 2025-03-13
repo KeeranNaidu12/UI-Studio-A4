@@ -4,7 +4,9 @@ Simple UI in a platformer. I added a Pause Menu which has play and exit buttons.
 
 Video Demonstration:
 
-https://github.com/user-attachments/assets/f7dc3645-6a60-43f4-8d56-92b037c175ed
+https://github.com/user-attachments/assets/8c017080-1378-4725-9b38-97dd8b2f597d
+
+
 
 Controls:
 Pause Menu - Hold P Key
